@@ -1,8 +1,10 @@
-<h2 align="left">About Me</h2>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Arthur!;" />
+</h1>
 
 ###
 
-<h3 align="left">-Cursando Análise e Desenvolvimento de Sistemas</h3>
+<h2 align="left">-Cursando Análise e Desenvolvimento de Sistemas</h2>
 
 ###
 
@@ -28,7 +30,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">⚡Stats⚡</h2>
 
 ###
 
