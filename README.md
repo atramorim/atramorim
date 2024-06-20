@@ -4,12 +4,12 @@
 
 ###
 <div  align="center" >
-  - 🎓 Cursando Análise e Desenvolvimento de Sistemas
+  <h3>- 🎓 Cursando Análise e Desenvolvimento de Sistemas</h3> 
 </div>
 
 ###
 
-<h3 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h3>
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
 ###
 
