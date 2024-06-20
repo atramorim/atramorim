@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h3 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h3>
 
 ###
 
