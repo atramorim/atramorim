@@ -3,8 +3,9 @@
 </h1>
 
 ###
-
-<h2 align="left">-Cursando Análise e Desenvolvimento de Sistemas</h2>
+<div  align="center" >
+  - 🎓 Cursando Análise e Desenvolvimento de Sistemas
+</div>
 
 ###
 
