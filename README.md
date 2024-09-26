@@ -9,11 +9,9 @@
 </div>
 
 ###
-
 <h2 align="center">Tecnologias</h2>
 
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
