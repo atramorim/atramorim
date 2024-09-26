@@ -13,11 +13,11 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="center">Tecnologias</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
