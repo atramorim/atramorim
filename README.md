@@ -5,11 +5,8 @@
 ###
 <div  align="center" >
   <h3>- 🎓 Cursando Análise e Desenvolvimento de Sistemas</h3> 
+  <h3>- ☕ Desenvolvedor Java ☕</h3> 
 </div>
-
-###
-
-<h2 align="center" >☕ Desenvolvedor Java ☕</h2>
 
 ###
 
